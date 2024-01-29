@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ad1tyaKr
+- 👋 Hi, I’m @AdityaKumar
 - 👀 I’m interested in Team projects and backend developement.
 - 🌱 I’m currently a student learning basics of computer languages.
-- 📫 How to reach me ...email-adityakr3579@gmail.com
+- 📫 How to reach me ... adityakr3579@gmail.com
 
 <!---
 Ad1tyaKr/Ad1tyaKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
