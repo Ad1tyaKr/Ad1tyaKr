@@ -1,7 +1,7 @@
 ## 💫 About Me:
 * Final-year engineering student figuring things out one commit at a time.<br>
 * Developing web applications using mordern techs and experimenting with AI-powered solutions.<br>
-* Always learning and looking for ways to contribute to open-source projects.
+* Always learning and looking for ways to contribute to open-source projects.<br>
 
 
 
